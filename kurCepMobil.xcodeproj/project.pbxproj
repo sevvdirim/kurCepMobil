@@ -16,7 +16,7 @@
 		3D221C552C7F1E2C002EA4CA /* ConverterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D221C542C7F1E2C002EA4CA /* ConverterViewController.swift */; };
 		3D221C572C7F1EDD002EA4CA /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D221C562C7F1EDD002EA4CA /* HomeViewController.swift */; };
 		3D221C592C7F2150002EA4CA /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D221C582C7F2150002EA4CA /* MyTableViewCell.swift */; };
-		3D221C5B2C7F4029002EA4CA /* CurrencyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D221C5A2C7F4029002EA4CA /* CurrencyModel.swift */; };
+		3DB1B1A22C86F3A3005557C8 /* CurrencyResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB1B1A12C86F3A3005557C8 /* CurrencyResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		3D221C542C7F1E2C002EA4CA /* ConverterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterViewController.swift; sourceTree = "<group>"; };
 		3D221C562C7F1EDD002EA4CA /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		3D221C582C7F2150002EA4CA /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
-		3D221C5A2C7F4029002EA4CA /* CurrencyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyModel.swift; sourceTree = "<group>"; };
+		3DB1B1A12C86F3A3005557C8 /* CurrencyResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,9 +69,9 @@
 				3D221C402C7F1598002EA4CA /* ViewController.swift */,
 				3D221C422C7F1598002EA4CA /* Main.storyboard */,
 				3D221C582C7F2150002EA4CA /* MyTableViewCell.swift */,
-				3D221C5A2C7F4029002EA4CA /* CurrencyModel.swift */,
 				3D221C542C7F1E2C002EA4CA /* ConverterViewController.swift */,
 				3D221C562C7F1EDD002EA4CA /* HomeViewController.swift */,
+				3DB1B1A12C86F3A3005557C8 /* CurrencyResponse.swift */,
 				3D221C522C7F1D6A002EA4CA /* Assets.xcassets */,
 				3D221C472C7F1599002EA4CA /* LaunchScreen.storyboard */,
 				3D221C4A2C7F1599002EA4CA /* Info.plist */,
@@ -150,9 +150,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D221C5B2C7F4029002EA4CA /* CurrencyModel.swift in Sources */,
 				3D221C572C7F1EDD002EA4CA /* HomeViewController.swift in Sources */,
 				3D221C412C7F1598002EA4CA /* ViewController.swift in Sources */,
+				3DB1B1A22C86F3A3005557C8 /* CurrencyResponse.swift in Sources */,
 				3D221C3D2C7F1598002EA4CA /* AppDelegate.swift in Sources */,
 				3D221C3F2C7F1598002EA4CA /* SceneDelegate.swift in Sources */,
 				3D221C552C7F1E2C002EA4CA /* ConverterViewController.swift in Sources */,
